@@ -1,0 +1,10 @@
+user, usergroups, roles, policies
+
+  A policy defines the AWS permissions that you can assign to a user, group, or role
+      S3-List object,put object etc
+      EKS-
+      ELB-
+  policies can be attached to users
+  policies can be attached to usergroups(user could be part of this group)
+  policies can be attached to roles(user could be part of this role)
+  
